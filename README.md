@@ -1,4 +1,4 @@
-# FSTire:An Open Source Magic Formula Parameter Estimation Tool
+# FSTire: An Open Source Magic Formula Parameter Estimation Tool
 
 This work presents a study on the use of a Cascading Algorithm for determining the MF parameters, which is later packaged as a
 parameter estimation tool. Extending findings from previous research, the cascading algorithm aims
