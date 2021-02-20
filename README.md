@@ -1,5 +1,9 @@
 # FSTire: An Open Source Magic Formula Parameter Estimation Tool
 
+This is the code implementation for the work mentioned in the following paper:
+https://saemobilus.sae.org/content/10-05-01-0001/
+
+# Abstract
 This work presents a study on the use of a Cascading Algorithm for determining the MF parameters, which is later packaged as a
 parameter estimation tool. Extending findings from previous research, the cascading algorithm aims
 to combine the strengths of both the Genetic Algorithm and Nelder-Mead Simplex (NMS) algorithm
@@ -9,6 +13,6 @@ test datasets of six tires from four different manufacturers. The results show g
 trends accurately. The tool is being made available to the community to allow fast and easy fitting
 of tire models and thereby enhance the accuracy of simulations.
 
-https://saemobilus.sae.org/content/10-05-01-0001/
+
 
  Code to be released soon !
